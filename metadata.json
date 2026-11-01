@@ -1,0 +1,8 @@
+{
+  "name": "CretoAI",
+  "description": "All-in-one AI Creative Suite for Image, Video, and Motion Graphics Generation",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
